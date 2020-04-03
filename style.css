@@ -1,0 +1,456 @@
+.header{
+    margin-left:170px;
+    margin-right:170px;
+    background-color: brown;
+    
+}
+.header-logo{
+    float:left;
+    
+}
+.logo{
+    width:150px;
+    /*margin-bottom:10px;*/
+    margin-top:10px;
+    margin-left:20px;
+}
+.header-content h1{
+    color:white;
+    font-size:2.5em;
+    margin-bottom:0px;
+    padding-top:30px;
+}
+.header-content h2{
+    padding:0;
+    color:white;
+    margin-top:0px;
+    margin-bottom:50px;
+}
+.nav-bar{
+    background-color: black;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.nav-bar a{
+    text-decoration: none;
+    color:white;
+    padding-right:20px;
+    padding-left:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    font-size:18px;
+    display:inline;
+    border-right:2px solid white;
+    
+    /*background-color: black;*/
+}
+.circulars{
+    margin-left:170px;
+    margin-right:170px;
+    margin-top:50px;
+    text-align: center;
+}
+
+.circulars a{
+    font-size:20px;
+    border-right:5px double grey;
+    padding:5px;
+}
+.join-fb{
+    border:1px solid;
+    background-color:blue;
+    text-align:center;
+    margin-right:150px;
+    margin-left:150px;
+    margin-top:50px;
+    margin-bottom:50px;
+    width:500px;
+}
+.join-fb a{
+    color:white;
+    font-size:30px;
+    margin-left:15px;
+    padding-top:50px;
+    padding:15px;
+}
+
+.button-set1{
+    margin-left:170px;
+    margin-right:170px;
+    margin-bottom:100px;
+    
+    
+}
+.b1{
+    padding:15px 15px 15px 15px;
+    border:1px solid brown;
+    background-color:brown;
+    box-sizing: border-box;
+    height:60px;
+    width:220px;
+    float:left;
+    margin:5px 5px;
+    text-align: center;
+}
+.b1 a{
+    color:white;
+    font-size:20px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.b2{
+    padding:15px 15px 15px 15px;
+    border:1px solid #868f;
+    background-color:#868f;
+    box-sizing: border-box;
+    height:60px;
+    width:220px;
+    float:left;
+    margin:5px 5px;
+    text-align: center;
+}
+.b2 a{
+    color:white;
+    font-size:20px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.b3{
+    padding:15px 15px 15px 15px;
+    border:1px solid hotpink;
+    background-color:hotpink;
+    box-sizing: border-box;
+    height:60px;
+    width:220px;
+    float:left;
+    margin:5px 5px;
+    text-align: center;
+}
+.b3 a{
+    color:white;
+    font-size:20px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.b4{
+    padding:15px 15px 15px 15px;
+    border:1px solid teal;
+    background-color:teal;
+    box-sizing: border-box;
+    height:60px;
+    width:220px;
+    float:left;
+    margin:5px 5px;
+    text-align: center;
+}
+.b4 a{
+    color:white;
+    font-size:20px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.b5{
+    padding:15px 15px 15px 15px;
+    border:1px solid #09ff99;
+    background-color:#09ff99;
+    box-sizing: border-box;
+    height:60px;
+    width:220px;
+    float:left;
+    margin-top:5px;
+    margin-bottom: 5px;
+    margin-left:5px;
+    margin-right:5px;
+    text-align: center;
+}
+.b5 a{
+    color:white;
+    font-size:20px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.b6{
+    padding:15px 15px 15px 15px;
+    border:1px solid #0099ff;
+    background-color:#0099ff;
+    box-sizing: border-box;
+    height:60px;
+    width:220px;
+    float:left;
+    margin:5px 5px;
+    text-align: center;
+}
+.b6 a{
+    color:white;
+    font-size:20px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.b7{
+    padding:15px 15px 15px 15px;
+    border:1px solid blueviolet;
+    background-color:blueviolet;
+    box-sizing: border-box;
+    height:60px;
+    width:220px;
+    float:left;
+    margin:5px 5px;
+    text-align: center;
+}
+.b7 a{
+    color:white;
+    font-size:20px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.b8{
+    padding:15px 15px 15px 15px;
+    border:1px solid #ff9900;
+    background-color:#ff9900;
+    box-sizing: border-box;
+    height:60px;
+    width:220px;
+    float:left;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    text-align: center;
+}
+.b8 a{
+    color:white;
+    font-size:20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+.tables{
+    margin-right:170px;
+    margin-left:170px;
+    margin-top:250px;
+   
+}
+.tresult{
+    margin-top:50px;
+    margin-left: 10px;
+    margin-right:10px;
+    margin-bottom:10px;
+    display:block;
+    height:auto;
+    width:300px;
+    border:2px solid brown;
+    float:left;
+}
+.tresult h1{
+    text-align: center;
+    margin-top:0px;
+    border:1px solid brown;
+    background:brown;
+    box-sizing: border-box;
+    height:50px;
+    color:white;
+
+}
+.tresult a{
+    font-size: 20px;
+    color:blue;
+}
+.tadmitcard{
+    margin-top:50px;
+    margin-left: 10px;
+    margin-right:10px;
+    margin-bottom:10px;
+    display:block;
+    height:auto;
+    width:300px;
+    border:2px solid brown;
+    float:left;
+}
+.tadmitcard h1{
+    text-align: center;
+    margin-top:0px;
+    border:1px solid brown;
+    background:brown;
+    box-sizing: border-box;
+    height:50px;
+    color:white;
+
+}
+.tadmitcard a{
+    font-size: 20px;
+    color:blue;
+}
+.tlatestjobs{
+    margin-top:50px;
+    margin-left: 10px;
+    margin-right:10px;
+    margin-bottom:10px;
+    display:block;
+    height:auto;
+    width:300px;
+    border:2px solid brown;
+    float:left;
+}
+.tlatestjobs h1{
+    text-align: center;
+    margin-top:0px;
+    border:1px solid brown;
+    background:brown;
+    box-sizing: border-box;
+    height:50px;
+    color:white;
+
+}
+.tlatestjobs a{
+    font-size: 20px;
+    color:blue;
+}
+.tanswerkey{
+    margin-top:-210px;
+    margin-left: 10px;
+    margin-right:10px;
+    margin-bottom:10px;
+    display:block;
+    height:auto;
+    width:300px;
+    border:2px solid brown;
+    float:left;
+}
+.tanswerkey h1{
+    text-align: center;
+    margin-top:0px;
+    border:1px solid brown;
+    background:brown;
+    box-sizing: border-box;
+    height:50px;
+    color:white;
+
+}
+.tanswerkey a{
+    font-size: 20px;
+    color:blue;
+}
+.tsyllabus{
+    margin-top:-210px;
+    margin-left: 10px;
+    margin-right:10px;
+    margin-bottom:10px;
+    display:block;
+    height:auto;
+    width:300px;
+    border:2px solid brown;
+    float:left;
+}
+.tsyllabus h1{
+    text-align: center;
+    margin-top:0px;
+    border:1px solid brown;
+    background:brown;
+    box-sizing: border-box;
+    height:50px;
+    color:white;
+
+}
+.tsyllabus a{
+    font-size: 20px;
+    color:blue;
+}
+.tadmission{
+    margin-top:10px;
+    margin-left: 10px;
+    margin-right:10px;
+    margin-bottom:10px;
+    display:block;
+    height:auto;
+    width:300px;
+    border:2px solid brown;
+    float:left;
+}
+.tadmission h1{
+    text-align: center;
+    margin-top:0px;
+    border:1px solid brown;
+    background:brown;
+    box-sizing: border-box;
+    height:50px;
+    color:white;
+
+}
+.tadmission a{
+    font-size: 20px;
+    color:blue;
+}
+.tcertificateverify{
+    margin-top:-220px;
+    margin-left: 10px;
+    margin-right:10px;
+    margin-bottom:10px;
+    display:block;
+    height:auto;
+    width:300px;
+    border:2px solid brown;
+    float:left;
+}
+.tcertificateverify h1{
+    text-align: center;
+    margin-top:0px;
+    border:1px solid brown;
+    background:brown;
+    box-sizing: border-box;
+    height:50px;
+    color:white;
+    font-size:30px;;
+}
+.tcertificateverify a{
+    font-size: 20px;
+    color:blue;
+}
+.timportant{
+    margin-top:-250px;
+    margin-left: 330px;
+    margin-right:100px;
+    margin-bottom:10px;
+    display:block;
+    height:auto;
+    width:300px;
+    border:2px solid brown;
+    float:left;
+}
+.timportant h1{
+    text-align: center;
+    margin-top:0px;
+    border:1px solid brown;
+    background:brown;
+    box-sizing: border-box;
+    height:50px;
+    color:white;
+
+}
+.timportant a{
+    font-size: 20px;
+    color:blue;
+}
+.dmabtn{
+    text-align:center;
+    margin-right: 165px;
+    margin-left:10px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+
+}
+
+.bottom-content{
+    margin-top:100px;
+    border:1px solid brown;
+    text-align: center;
+}
+.bottom-content h1{
+    border:1px solid brown;
+    background-color: brown;
+    color:white;
+    text-align: center;
+}
+.bottom-content p{
+    font-size:25px;
+    padding:2px;
+}
